@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "15390434028",
+    "firebase_url": "https://flutter-social-app-4b0cb.firebaseio.com",
+    "project_id": "flutter-social-app-4b0cb",
+    "storage_bucket": "flutter-social-app-4b0cb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:15390434028:android:6fd825010f56002932bbc9",
+        "android_client_info": {
+          "package_name": "com.yerokstagram"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "15390434028-s7aq8te1mom09vfhgi2oe64neu6j9sl9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.yerokstagram",
+            "certificate_hash": "3f56076a4413eeb2820c10da893e6dd3dab3981d"
+          }
+        },
+        {
+          "client_id": "15390434028-ouap92ts8eaq3dq5l5o4qi02rr8qo9jk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAdNBKUG1eN-MPFam3VFC5frqgw0UWjmMs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "15390434028-ouap92ts8eaq3dq5l5o4qi02rr8qo9jk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
